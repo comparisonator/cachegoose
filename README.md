@@ -2,7 +2,7 @@
 
 #### Mongoose caching that actually works. ####
 
-[![Build Status](https://travis-ci.org/boblauer/cachegoose.svg)](https://travis-ci.org/boblauer/cachegoose)
+[![Build Status](https://travis-ci.org/ubaranzorlu/cachegoose.svg)](https://travis-ci.org/ubaranzorlu/cachegoose)
 
 ## About ##
 
